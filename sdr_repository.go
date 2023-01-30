@@ -5,7 +5,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/gebn/bmc/pkg/ipmi"
+	"github.com/kuiwang02/bmc/pkg/ipmi"
 
 	"github.com/cenkalti/backoff/v4"
 	"github.com/google/gopacket"

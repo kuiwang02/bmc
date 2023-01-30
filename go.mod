@@ -1,4 +1,4 @@
-module github.com/gebn/bmc
+module github.com/kuiwang02/bmc
 
 go 1.15
 

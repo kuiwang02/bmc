@@ -3,7 +3,7 @@ package bmc
 import (
 	"context"
 
-	"github.com/gebn/bmc/internal/pkg/transport"
+	"github.com/kuiwang02/bmc/internal/pkg/transport"
 )
 
 // SessionlessTransport represents a session-less IPMI v1.5 or v2.0 LAN

@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"hash"
 
-	"github.com/gebn/bmc/pkg/ipmi"
+	"github.com/kuiwang02/bmc/pkg/ipmi"
 )
 
 // truncatedHash truncates a hash.Hash's output. This is used to implement

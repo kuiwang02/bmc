@@ -6,6 +6,6 @@ go_library(
         "doc.go",
         "enterprise.go",
     ],
-    importpath = "github.com/gebn/bmc/pkg/iana",
+    importpath = "github.com/kuiwang02/bmc/pkg/iana",
     visibility = ["//visibility:public"],
 )

@@ -1,8 +1,8 @@
 # Baseboard Management Controller Remote Console
 
 [![Build Status](https://travis-ci.org/gebn/bmc.svg?branch=master)](https://travis-ci.org/gebn/bmc)
-[![GoDoc](https://godoc.org/github.com/gebn/bmc?status.svg)](https://godoc.org/github.com/gebn/bmc)
-[![Go Report Card](https://goreportcard.com/badge/github.com/gebn/bmc)](https://goreportcard.com/report/github.com/gebn/bmc)
+[![GoDoc](https://godoc.org/github.com/kuiwang02/bmc?status.svg)](https://godoc.org/github.com/kuiwang02/bmc)
+[![Go Report Card](https://goreportcard.com/badge/github.com/kuiwang02/bmc)](https://goreportcard.com/report/github.com/kuiwang02/bmc)
 
 This project implements an IPMI v2.0 remote console in pure Go, to interact with BMCs.
 

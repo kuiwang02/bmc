@@ -17,7 +17,7 @@ go_library(
         "sessionless_commands.go",
         "system_power_statistics_mode.go",
     ],
-    importpath = "github.com/gebn/bmc/pkg/dcmi",
+    importpath = "github.com/kuiwang02/bmc/pkg/dcmi",
     visibility = ["//visibility:public"],
     deps = [
         "//:go_default_library",

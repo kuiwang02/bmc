@@ -3,7 +3,7 @@ package bmc
 import (
 	"context"
 
-	"github.com/gebn/bmc/pkg/ipmi"
+	"github.com/kuiwang02/bmc/pkg/ipmi"
 
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/promauto"

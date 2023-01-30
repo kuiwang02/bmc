@@ -3,8 +3,8 @@ package bmc
 import (
 	"fmt"
 
-	"github.com/gebn/bmc/pkg/ipmi"
-	"github.com/gebn/bmc/pkg/layerexts"
+	"github.com/kuiwang02/bmc/pkg/ipmi"
+	"github.com/kuiwang02/bmc/pkg/layerexts"
 )
 
 func algorithmCipher(a ipmi.ConfidentialityAlgorithm, g AdditionalKeyMaterialGenerator) (layerexts.SerializableDecodingLayer, error) {

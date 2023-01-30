@@ -34,6 +34,6 @@ Writing appropriate implementations for IPMI v1.5 and v2.0 in `v1session(less).g
 
 ### Examples
 
- - Empty command body: [Get Chassis Status](https://github.com/gebn/bmc/commit/40eb7bff28e9eb270b20c981426c7baaed232068)
- - Empty response body: [Chassis Control](https://github.com/gebn/bmc/commit/1f67530450dbdf29657a66f6e6258c7af7decc40)
- - Non-empty command and response bodies: [Get Channel Authentication Capabilities](https://github.com/gebn/bmc/blob/master/pkg/ipmi/get_channel_authentication_capabilities.go)
+ - Empty command body: [Get Chassis Status](https://github.com/kuiwang02/bmc/commit/40eb7bff28e9eb270b20c981426c7baaed232068)
+ - Empty response body: [Chassis Control](https://github.com/kuiwang02/bmc/commit/1f67530450dbdf29657a66f6e6258c7af7decc40)
+ - Non-empty command and response bodies: [Get Channel Authentication Capabilities](https://github.com/kuiwang02/bmc/blob/master/pkg/ipmi/get_channel_authentication_capabilities.go)

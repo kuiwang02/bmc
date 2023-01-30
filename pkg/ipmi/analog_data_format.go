@@ -3,7 +3,7 @@ package ipmi
 import (
 	"fmt"
 
-	"github.com/gebn/bmc/internal/pkg/complement"
+	"github.com/kuiwang02/bmc/internal/pkg/complement"
 )
 
 // AnalogDataFormatParser is implemented by types that can convert a raw

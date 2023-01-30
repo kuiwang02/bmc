@@ -65,7 +65,7 @@ go_library(
         "v1session.go",
         "v2session.go",
     ],
-    importpath = "github.com/gebn/bmc/pkg/ipmi",
+    importpath = "github.com/kuiwang02/bmc/pkg/ipmi",
     visibility = ["//visibility:public"],
     deps = [
         "//internal/pkg/bcd:go_default_library",

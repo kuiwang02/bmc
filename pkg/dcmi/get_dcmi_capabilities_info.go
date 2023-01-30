@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/gebn/bmc/pkg/ipmi"
+	"github.com/kuiwang02/bmc/pkg/ipmi"
 
 	"github.com/google/gopacket"
 	"github.com/google/gopacket/layers"

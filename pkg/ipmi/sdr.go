@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"fmt"
 
-	"github.com/gebn/bmc/internal/pkg/bcd"
+	"github.com/kuiwang02/bmc/internal/pkg/bcd"
 
 	"github.com/google/gopacket"
 	"github.com/google/gopacket/layers"

@@ -12,10 +12,10 @@ import (
 	"sort"
 	"time"
 
-	"github.com/gebn/bmc"
-	"github.com/gebn/bmc/internal/pkg/transport"
-	"github.com/gebn/bmc/pkg/dcmi"
-	"github.com/gebn/bmc/pkg/ipmi"
+	"github.com/kuiwang02/bmc"
+	"github.com/kuiwang02/bmc/internal/pkg/transport"
+	"github.com/kuiwang02/bmc/pkg/dcmi"
+	"github.com/kuiwang02/bmc/pkg/ipmi"
 
 	"github.com/alecthomas/kingpin"
 	"github.com/google/gopacket"
